@@ -1,4 +1,6 @@
-## Hi👋 I’m Giorgos, a newly graduate Frontend developer living and working in Norway. 
+## Hi👋 I’m Giorgos, 
+
+👨‍🎓 A newly graduate Frontend developer living and working in Norway. 
 
 🖥️ I love researching new technologies and use them to design and develop IT solutions for businesses and not only. 
 
