@@ -10,8 +10,6 @@
 
 💞️ I love traveling and spend a lots of quality time with my family!!
 
-![68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667](https://user-images.githubusercontent.com/70321793/171268556-6ca0572d-9a6f-4107-9f31-599139da1007.svg)
-
 ## Technologies I code with
 ### Design
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![AdobeIllustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![AdobePs](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
