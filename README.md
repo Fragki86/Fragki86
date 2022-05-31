@@ -1,15 +1,21 @@
-Hi👋 I’m Giorgos, a newly graduate Frontend developer living in Norway. 
+Hi👋 I’m Giorgos, a newly graduate Frontend developer living and working in Norway. 
 
-https://github-readme-stats.vercel.app/api?username=Fragki86
+I love researching new technologies and use them to design and develop IT solutions for businesses and not only. 
+
+📖 Currently learning Svelte and Sql.
+
+Outside the tech world, I enjoy getting involved with the investment world by researching and analyzing companies to invest in. 
+
+I love traveling and spend a lots of quality time with my family.
+
+### Skills
+#### Design
+
+#### Technical
 
 
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=Fragki86
-
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fragki86&theme=vue
-
-### Find me
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/georgios-fragkias-56026382/) [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/giorgos.fragkias/)
+### Click a badge to connect with me
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/georgios-fragkias-56026382/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geo.fragkias@gmail.com) [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/giorgos.fragkias/)
 
 
 - 
