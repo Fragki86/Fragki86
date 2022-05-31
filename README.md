@@ -1,4 +1,4 @@
-## Hi👋 I’m Giorgos,
+## **Hi👋 I’m Giorgos,**
 
 👨‍🎓 A newly graduate Frontend developer from Greece, currently living and working in Norway. 
 
