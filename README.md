@@ -1,11 +1,16 @@
 ## Hi👋 I’m Giorgos,
 
-👨‍🎓 A newly graduate Frontend developer from 🇬🇷  Greece, currently living and working in 🇳🇴 Norway. 
-🖥️ I love researching new technologies and use them to design and develop IT solutions for businesses and not only. 
+👨‍🎓 A newly graduate Frontend developer from Greece, currently living and working in Norway. 
+
+🖥️ I love designing and developing IT solutions for businesses and researching new technologies. 
+
 📖 Currently learning Svelte and Sql.
+
 📈 Outside the tech world, I enjoy getting involved with investments by researching and analyzing companies to invest in
+
 💞️ I love traveling and spend a lots of quality time with my family!!
 
+![68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667](https://user-images.githubusercontent.com/70321793/171268556-6ca0572d-9a6f-4107-9f31-599139da1007.svg)
 
 ## Technologies I code with
 ### Design
