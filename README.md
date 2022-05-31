@@ -1,6 +1,6 @@
 ## About me
 
-![rrr](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![(https://www.linkedin.com/in/georgios-fragkias-56026382/)](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
 - 👋 Hi, I’m Georgios
 - 🌱 I’m currently learning Frontend developing in Noroff School of Technology in Norway
