@@ -1,6 +1,6 @@
 ## **Hi👋 I’m Giorgos,**
 
-👨‍🎓 A junior Frontend developer from Greece, currently living and working in Norway. 
+👨‍🎓 A junior developer from Greece, currently living and working in Norway. 
 
 🖥️ I love designing and developing IT solutions for businesses and researching new technologies. 
 
