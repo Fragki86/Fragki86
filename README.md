@@ -4,8 +4,6 @@
 
 🖥️ I love designing and developing IT solutions for businesses and researching new technologies. 
 
-📖 Currently learning ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white).
-
 📈 Outside the tech world, I enjoy getting involved with investments by researching and analyzing companies to invest in
 
 ## Technologies I work with
